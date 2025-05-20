@@ -39,7 +39,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.5
 MarkupSafe==3.0.2
-matplotlib==3.8.0
+matplotlib>=3.9.2,<4.0.0
 mccabe==0.7.0
 mediapipe==0.10.21
 ml_dtypes==0.5.1
